@@ -67,8 +67,9 @@ was utilized.
 * **class_themes.txt** : the classes. Classification equal to 0 
 					corresponds to first entry of this
 					file and so on.
+	
 	All these files are created by "create_images_feature_matrices.py".
-	Currently, thos folder only contains dummy files for *train_X.txt* and
+	Currently, this folder only contains dummy files for *train_X.txt* and
 	*train_y.txt*, however you can generate new feature matrices for training 
 	by using your own images and the provided code in this repository.
 
