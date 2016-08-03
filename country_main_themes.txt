@@ -1,0 +1,44 @@
+Canada:beach
+Brazil:beach
+Italy:beach
+Bangladesh:nature
+Bhutan:nature
+Bolivia, plurinational state of:beach
+Nepal:beach
+Cambodia:nature
+France:beach
+Netherlands:nature
+Argentina:beach
+Norway:desert
+Ecuador:nature
+Iran, islamic republic of:wildlife
+Australia:beach
+Tanzania, united republic of:wildlife
+Iceland:beach
+Guatemala:nature
+China:beach
+Chile:beach
+Belgium:nature
+Germany:nature
+Maldives:beach
+Denmark:beach
+Indonesia:beach
+Morocco:wildlife
+Croatia:beach
+Bosnia and herzegovina:nature
+Finland:winterlandscape
+Hungary:architecture
+Russian federation:nature
+Honduras:nature
+Czech republic:nature
+Estonia:winterlandscape
+Egypt:desert
+India:architecture
+Malaysia:beach
+Austria:winterlandscape
+Greece:beach
+United arab emirates:desert
+Myanmar:desert
+New zealand:beach
+Fiji:beach
+Botswana:wildlife

@@ -1,0 +1,2 @@
+This is a dummy file for showing how the folder is structured. Generate your own
+feature matrices using your own photos and the provided code in the repository.
