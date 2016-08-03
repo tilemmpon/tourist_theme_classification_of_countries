@@ -29,6 +29,7 @@ through their labels were used. Themes selected are:
 * Wildlife
 * Nature
 * Winter landscape
+
 For each country up to 100 images that will be used for classifying the 
 country were selected.
 
@@ -68,7 +69,6 @@ train\_data\_matrices : Contains all the data concerning the training.
 					file and so on.
 
 	All these files are created by "create_images_feature_matrices.py".
-	
 	Currently, thos folder only contains dummy files for *train_X.txt* and
 	*train_y.txt*, however you can generate new feature matrices for training 
 	by using your own images and the provided code in this repository.
@@ -77,7 +77,6 @@ test\_data\_matrices : Contains all the feature matrices for the countries (test
 	data). Example: "test_X_france.txt" contains the features of the images 
 	for France. All these files are created by 
 	"create_images_feature_matrices.py".
-
 	Currently, it only contains a dummy file, however you can generate new
 	feature matrices for countries by using your own images and the provided
 	code in this repository.
@@ -101,25 +100,20 @@ bar_chart_graph.py : Helper program that creates a graph showing the
 create\_images\_feature_matrices.py : This is a program that creates feature 
 	matrices for training and test data images contained in the 
 	corresponding folders. The features used  are RGB and HOG features.
-
 	Labels of the training data are the names of the folders that contain 
 	these images. Example: images in folder "beach" will be labelled as 
 	beach photos.
-
 	For the test data there are no labels. The folder containing the photos 
 	defines the country that these photos belong to. Example: images in 
 	folder "visit_austria" belong to country Austria. The code in written 
 	in the way of assuming that the folders names of countries are "visit_X" 
 	where X is the  country name.
-
 	Also, it outputs class_themes.txt that contains all the classes.
-
 	This program can run indepedently.
 
 create\_world\_map\_graph.py : This is a program that creates a world map where 
 	each tested country is colored to its best matching tourist theme and 
 	the rest countries are colored grey.
-
 	This program can run indepedently.
 
 classify_countries.py : This program is used to classify a list of countries to 
@@ -129,6 +123,5 @@ classify_countries.py : This program is used to classify a list of countries to
 	matrices, creates a bar chart for each	country matching and finally it 
 	outputs a world map depicted all the tested countries colored in the 
 	matching tourist theme.
-
 	This program utilizes all the above mentioned scripts to achieve this 
 	functionality.
