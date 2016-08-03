@@ -62,12 +62,11 @@ was utilized.
 	"RUSSIAN FEDERATION".
 
 **train\_data\_matrices** : Contains all the data concerning the training.
-	* **train_X.txt** : the feature matrix of the training images.
-	* **train_y.txt** : the classification of the training images.
-	* **class_themes.txt** : the classes. Classification equal to 0 
+* **train_X.txt** : the feature matrix of the training images.
+* **train_y.txt** : the classification of the training images.
+* **class_themes.txt** : the classes. Classification equal to 0 
 					corresponds to first entry of this
 					file and so on.
-
 	All these files are created by "create_images_feature_matrices.py".
 	Currently, thos folder only contains dummy files for *train_X.txt* and
 	*train_y.txt*, however you can generate new feature matrices for training 
