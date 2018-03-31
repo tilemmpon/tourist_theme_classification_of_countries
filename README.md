@@ -36,6 +36,16 @@ country were selected.
 For the machine learning part the capabilities of *scikit-learn* library
 was utilized.
 
+## Example results
+
+Example match of theme for a country:
+
+![](https://github.com/tilemmpon/tourist_theme_classification_of_countries/blob/master/results/random%20forest%20classifer/countries_graphs/graph_Belgium.png)
+
+World map of all tested countries colored in corresponding theme:
+
+![](https://github.com/tilemmpon/tourist_theme_classification_of_countries/blob/master/results/random%20forest%20classifer/world_map.png)
+
 ## DESCRIPTION OF FILES AND FOLDERS
 
 ### FOLDERS
