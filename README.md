@@ -46,6 +46,19 @@ World map of all tested countries colored in corresponding theme:
 
 ![](https://github.com/tilemmpon/tourist_theme_classification_of_countries/blob/master/results/random%20forest%20classifer/world_map.png)
 
+## Dependencies
+
+* Python 2.7
+* numpy
+* matplotlib
+* glob
+* sci-kit learn (sklearn)
+* PIL
+* skimage
+* iso3166
+* cartopy
+* colorsys
+
 ## DESCRIPTION OF FILES AND FOLDERS
 
 ### FOLDERS
